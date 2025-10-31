@@ -62,7 +62,7 @@ Deployment:
 
 1.Clone the repository:
 
-git clone https://github.com/your-username/stayhub.git
+git clone https://github.com/lalit-mehra703/stayhub.git
 cd stayhub
 
 
