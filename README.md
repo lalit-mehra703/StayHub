@@ -97,7 +97,7 @@ http://localhost:3000
 
 🌟 Live Demo
 
-🔗 Check it out here: StayHub on Render
+🔗 Check it out here: https://stayhub-renr.onrender.com
 
 🤝 Contributing
 
